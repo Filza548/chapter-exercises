@@ -79,6 +79,34 @@
 
 
 
+// .............................................CHAPTER NUMBER # 04 ANSWERS 
+// ...............................Question # 01 Answer 
+// let fruitName = "Apple", chefName = "miss filza", animalName = "lion"
+
+// ...............................Question # 02 Answer 
+// naming convention ILLIGAL name
+
+// 1- Number se start hone waley name 
+// 2- hyphen se start hone waley name 
+// 3- reserved key words se start hone waley name 
+// 4- spacing words se start hone waley name 
+// 5- aur jo special charater honte jaise #,@  words se start hone waley name 
+
+// naming convention LIGAL name
+// 1- camelCase se start hone waley name 
+// 2- snack-case se start hone waley name 
+// 3- PascalCase se start hone waley name 
+// 4- jo $ se start hone waley name 
+// 5- jo _ se start hone waley name 
+
+
+
+
+
+
+
+
+
 
 
 
